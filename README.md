@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A passionate Mobile App Development from Türkiye</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
+
 - 🔭 I’m currently working on **C and Flutter**
 
 <h3 align="left">Languages and Tools:</h3>
